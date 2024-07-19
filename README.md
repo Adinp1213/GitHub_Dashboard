@@ -1,2 +1,3 @@
 # GitHub_Dashboard
-![Github_Dashboard](https://github.com/user-attachments/assets/fda6fc12-7a8b-480c-bbde-a86698c99ac8)
+
+![Github_Dashboard](https://github.com/user-attachments/assets/84f0d759-997b-4fe4-a0aa-106c6084cdc1)
